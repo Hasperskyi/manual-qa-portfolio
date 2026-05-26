@@ -1,2 +1,3 @@
-# manual-qa-portfolio
-Junior QA portfolio featuring bug reports, checklists, API testing, UI testing, and QA documentation.
+# Manual QA Portfolio
+
+Practical QA examples including bug reports, checklists, API testing, and test documentation created during QA training and self-study.

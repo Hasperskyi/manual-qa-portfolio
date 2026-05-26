@@ -1,5 +1,3 @@
-</> Markdown
-
 #Manual QA Portfolio
 
 This repository contains my QA practice projects completed during QA training and self-study.
